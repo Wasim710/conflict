@@ -1,2 +1,2 @@
-<h1>Pichu</h1>
-<h1>Pikachu</h1>
+<h1>Pichu 1</h1>
+<h1>Pikachu 2</h1>
